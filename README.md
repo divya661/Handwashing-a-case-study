@@ -11,7 +11,7 @@ Dr. Semmelweis was worried about the situation of huge rate of women death just 
 3.  Proportion of deaths/ no of births is calculated monthly & graph is ploted tostudy the effect of handwashing on reduction in deaths.
 4. As on date `1847-06-01` made compulsory hand-washing, the before & after effects are visualized again.
 5. Reduction in monthly proportion of deaths on average is calculated.
-6.Bootstrap analysis of Semmelweis handwashing data is done.
+6. Bootstrap analysis of Semmelweis handwashing data is done.
 
 
 # Steps to run the application
